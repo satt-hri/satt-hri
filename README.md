@@ -25,12 +25,3 @@
 **数据库**: MySQL, PostgreSQL, MongoDB, Prisma ORM  
 **云与工具**: AWS (学习中), Docker, Git, Linux
 
-
----
-
-## 🏸 兴趣爱好 / Hobbies
-- 打羽毛球 🏸
-- 学习新技术 & 挑战编程难题 💻
-- 研究云服务架构 ☁️
-
-
