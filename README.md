@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi / こんにちは
 
-<!--
-**satt-hri/satt-hri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名 **Web 全栈工程师**，拥有 **10+ 年开发经验**，精通前端与后端技术。  
+热爱学习与分享，喜欢研究各种 JavaScript 技术。  
+闲暇时间会打羽毛球 🏸。
 
-Here are some ideas to get you started:
+> “代码不是目的，解决问题才是核心。”  
+> *"Code is not the goal, solving problems is."*  
+> 「コードは目的ではなく、問題解決が本質です。」
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🌐 语言能力 / Language Skills
+- 🇨🇳 **中文** (母语)
+- 🇯🇵 **日本語** (N1)
+- 🇺🇸 **English** (Fluent)
+
+
+---
+
+## 🛠 技术栈 / Tech Stack
+**前端**: Vue, React, Nuxt, Next.js, JavaScript, TypeScript  
+**后端**: Node.js, NestJS, PHP, Java, ColdFusion  
+**数据库**: MySQL, PostgreSQL, MongoDB, Prisma ORM  
+**云与工具**: AWS (学习中), Docker, Git, Linux
+
+
+---
+
+## 🏸 兴趣爱好 / Hobbies
+- 打羽毛球 🏸
+- 学习新技术 & 挑战编程难题 💻
+- 研究云服务架构 ☁️
+
+
