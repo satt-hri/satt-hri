@@ -14,7 +14,7 @@
 ## 🌐 语言能力 / Language Skills
 - 🇨🇳 **中文** (母语)
 - 🇯🇵 **日本語** (N1)
-- 🇺🇸 **English** (Fluent)
+- 🇺🇸 **English** ((Intermediate, proficient in reading IT-related materials))
 
 
 ---
