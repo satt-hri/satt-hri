@@ -20,8 +20,8 @@
 ---
 
 ## 🛠 技术栈 / Tech Stack
-**前端**: Vue, React, Nuxt, Next.js, JavaScript, TypeScript  
+**前端**: JavaScript, jQuery, Vue, React, Nuxt, Next.js, TypeScript  
 **后端**: Node.js, NestJS, PHP, Java, ColdFusion  
-**数据库**: MySQL, PostgreSQL, MongoDB, Prisma ORM  
+**数据库**: MySQL, PostgreSQL, SQL server, MongoDB, Prisma ORM  
 **云与工具**: AWS (学习中), Docker, Git, Linux
 
