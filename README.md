@@ -18,15 +18,6 @@
 
 ---
 
-## 🌏 Languages
-
-| Language | Proficiency |
-|---|---|
-| 🇨🇳 中文 | Native |
-| 🇯🇵 日本語 | JLPT N1 |
-| 🇺🇸 English | Intermediate · Comfortable reading technical documentation |
-
----
 
 ## 🛠️ Tech Stack
 
