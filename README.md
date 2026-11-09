@@ -9,6 +9,7 @@
 我始终认为，技术只是工具，**真正重要的是如何利用技术解决实际问题。**
 
 工作之外，喜欢学习语言、研究有趣的技术，以及打羽毛球 🏸。
+https://sports.kakashicode.com/
 
 > 💡 **Code is not the goal. Solving problems is.**
 >
